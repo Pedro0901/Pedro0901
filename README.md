@@ -6,7 +6,7 @@
 
 
 
-I'm a 18 year old enthusiastic of technology from Itumbiara, Brazil and I'm studying to become a **Back-End Developer** at **Udemy** and other institutions. I'm currently looking for opportunities. I love to learn and contribute in any and every possible way. I'm passionate about technology, people, math, problem solving, movies and travel.
+I'm a 19 year old enthusiastic of technology from Itumbiara, Brazil and I'm studying to become a **Back-End Developer** at **Udemy** and other institutions. I'm currently looking for opportunities. I love to learn and contribute in any and every possible way. I'm passionate about technology, people, math, problem solving, movies and travel.
 
 - 🌱 I’m currently learning Python and English. (So i'm sorry for any mistake).
 - 📖 I know C and C++.
